@@ -6,7 +6,7 @@ This tutorial is for the case  you don't wish to share the code itself nor its i
 
 In case you want to share a documentation _and_ the code itself, and if your code is in Python, documented with nice docstrings, you can have a look at [this other tutorial](https://my-documented-code-test.readthedocs.io/en/latest/) instead.
 
-You'll notice that this tutorial  is itself built using Readthedocs and you can see the rendered pages here: [https://my-docs-online.readthedocs.io/en/latest/](https://my-docs-online.readthedocs.io/en/latest/)
+You'll notice that this tutorial  is itself built using Readthedocs and you can see the rendered pages here: [https://my-docs-online.readthedocs.io/en/latest/build_documentation.html](https://my-docs-online.readthedocs.io/en/latest/build_documentation.html)
 
 ---
 ## 0. Get ready on github 
