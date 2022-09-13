@@ -12,12 +12,12 @@ You'll notice that this tutorial  is itself built using Readthedocs.
 ## 0. Get ready on github 
 As a pre-requisite, you need:
 * to have a github account,
-* to have created a new github Project, say for example `my-doc-online` ([see here on gihub](https://github.com/sasip-climate/my-doc-online)),
+* to have created a new github Project, say for example `my-docs-online` ([see here on gihub](https://github.com/sasip-climate/my-docs-online)),
 * this Project contains a source folder where you will put the text files containing the documentation. 
 
-As an example, here is the structure of the `my-doc-online` github project:
+As an example, here is the structure of the `my-docs-online` github project:
 ```
-my-doc-online/
+my-docs-online/
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
@@ -38,7 +38,7 @@ my-doc-online/
 ## 1. Set up your documentation
 
 ### 1.1 Add a .readthedoc.yaml config file 
-You need to have a `.readthedocs.yaml` config file at the root of your Project (in our dummy example, it will be located in the `/my-doc-online/` directory).
+You need to have a `.readthedocs.yaml` config file at the root of your Project (in our dummy example, it will be located in the `/my-docs-online/` directory).
 
 Here is the simple config file used in the example:
 
@@ -219,7 +219,7 @@ There is an [extensive documentation](https://docs.readthedocs.io/en/stable/tuto
 ---
 ## 3. Build your documentation  on-line with readthedocs
 
-To do so, check on the readthedocs `build` page. In our example: [https://readthedocs.org/projects/my-doc-online/builds/](https://readthedocs.org/projects/my-doc-online/builds/).
+To do so, check on the readthedocs `build` page. In our example: [https://readthedocs.org/projects/my-docs-online/builds/](https://readthedocs.org/projects/my-docs-online/builds/).
 If you had connected your github Project to your reathedocs account as explained in this tuto, a "webhook" was generated automatically so that any new `push` or 'pull request` on your github project will send a notification to your readthedocs account and will trigger a new build  of your documentation. If for some reason the webhook was not generated, you can set it up manually following these [instructions](https://docs.readthedocs.io/en/stable/connected-accounts.html).
 
 Your screen should look like this:
