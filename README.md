@@ -7,5 +7,5 @@ In case you want to share a documentation _and_ the code itself, and if your cod
 
 You'll notice that this tutorial  is itself built using Readthedocs and you can see the rendered pages at the link below.
 
-**>>Access the tutorial on  readthedocs: here>>** [https://my-docs-online.readthedocs.io/en/latest/build_documentation.html](https://my-docs-online.readthedocs.io/en/latest/build_documentation.html)
+**>>Get started! Access the tutorial on  readthedocs here>>** [https://my-docs-online.readthedocs.io/en/latest/build_documentation.html](https://my-docs-online.readthedocs.io/en/latest/build_documentation.html)
 
