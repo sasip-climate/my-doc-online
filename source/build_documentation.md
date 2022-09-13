@@ -12,7 +12,7 @@ You'll notice that this tutorial  is itself built using Readthedocs.
 ## 0. Get ready on github 
 As a pre-requisite, you need:
 * to have a github account,
-* to have created a new github Project, say for example `my-doc-online` ([see here on gihub](https://github.com/stephanieleroux/my-doc-online)),
+* to have created a new github Project, say for example `my-doc-online` ([see here on gihub](https://github.com/sasip-climate/my-doc-online)),
 * this Project contains a source folder where you will put the text files containing the documentation. 
 
 As an example, here is the structure of the `my-doc-online` github project:
