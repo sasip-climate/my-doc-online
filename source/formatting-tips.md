@@ -43,7 +43,7 @@ Here is an example of markdown file:
 ```
 * Here i call a famous paper [[1]](#References) in the list of References.
 * Here is want to refer to the above [section about latex integration](#latex-integration).
-* Here i make reference to another [doc page/section](#Set-up-your-documentation).
+* Here i make reference to another [doc page/section](./build_documentation.md#Set-up-your-documentation).
 
 ```
 
