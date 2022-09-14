@@ -49,10 +49,12 @@ Here is an example of markdown file:
 
 How it renders in html:
 
-* Here i call a famous paper [[1]](#Bibliography) in the list of References.
+* Here i call a famous paper [[1]](#Bibliography) from the Bibiography.
 * Here is want to refer to the above [section about latex integration](#latex-integration).
 * Here i make reference to another [doc page/section](./build_documentation.md#Set-up-your-documentation).
 * Another way: {doc}`Custom title <build_documentation.md>`
+
+More ways to do it (not tested): [https://docs.readthedocs.io/en/stable/guides/cross-referencing-with-sphinx.html](https://docs.readthedocs.io/en/stable/guides/cross-referencing-with-sphinx.html)
 
 ---
 ## Bibliography
