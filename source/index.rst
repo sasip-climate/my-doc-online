@@ -13,6 +13,7 @@ Welcome to my code's documentation!
    access-the-code
    build_documentation
    formatting-tips
+   test
 
 
 Indices and tables
